@@ -3798,7 +3798,7 @@ input[type='radio'].radio:checked + .radio {background:url(../images/address-ok.
 /*}*/
 /*密码*/
 .pwd-box{
-    width:6.05rem;
+    width:6.2rem;
     padding-left: 1px;
     position: relative;
     border: 1px solid #e5e5e5;
